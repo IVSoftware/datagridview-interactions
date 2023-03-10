@@ -1,4 +1,4 @@
-Lacking specifics, here is a general example of adding a row to a second `DataGridView` when selected in the first. I hope this helps get you started working with DGV. 
+Lacking specifics, here is a general example of how to populate the "presented lessons" `DataGridView` and adding/removing a row in the "selected lessons" DGV when selected in the first. At least now you will have a starting point to experiment with.
 
 [![screenshot][1]][1]
 
